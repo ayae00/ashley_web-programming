@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(255, 235, 83);
+}
+    h1 {
+    font-family: "Gotham";
+    color: black;
+    font-size: 60px;
+    margin-left: 170px;
+    margin-bottom: 10px;
+    }
+
+    h2 {
+    font-family: "Gotham";
+    color: black;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 170px;
+    }
+
+    p{
+    font-family: "Gotham";
+    color: black;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 170px;
+    margin-bottom: 100px;
+    }
+
+    .b:hover {
+        fill:rgb(180, 85, 225);
+    }
+
+  
